@@ -1,0 +1,101 @@
+
+
+def print_name1():
+    print('  CCCCC       A        RRRRR  TTTTTTT  EEEEEE  RRRRR  ')
+    print(' C     C     A A       R    R    T     E       R    R ')
+    print('C           A   A      R    R    T     EEEEE   R    R ')
+    print('C          AAAAAAA     RRRRR     T     E       RRRRR  ')
+    print(' C     C  A       A    R    R    T     E       R    R ')
+    print('  CCCCC  A         A   R     R   T     EEEEEE  R     R')
+
+def print_name2(name):
+    char_list = list(name)
+    print(char_list)
+
+    for char in char_list:
+        if char.upper() == 'A':
+            print('')
+            print('      A       ')
+            print('     A A      ')
+            print('    A   A     ')
+            print('   AAAAAAA    ')
+            print('  A       A   ')
+            print(' A         A  ')
+            print('A           A ')
+        elif char.upper() == 'B':
+            print('')
+            print('  BBBBBBBB  ')
+            print('  B       B ')
+            print('  B        B ')
+            print('  B       B ')
+            print('  BBBBBBBB ')
+            print('  B       B')
+            print('  B        B')
+            print('  B       B')
+            print('  BBBBBBBB')
+        elif char.upper() == '':
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+        elif char.upper() == '':
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+        elif char.upper() == '':
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+        elif char.upper() == '':
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+        elif char.upper() == '':
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+        elif char.upper() == '':
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+        elif char.upper() == '':
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+        elif char.upper() == '':
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+            print('')
+        
+            
